@@ -1,7 +1,7 @@
 {
   "name": "phonegap-template-hello-world",
   "version": "4.0.2",
-  "description": "> A Hello World template built with PhoneGap",
+  "description": "> A cryptographical tool to scramble text messages.",
   "repository": {
     "type": "git",
     "url": "https://github.com/phonegap/phonegap-app-hello-world.git"
