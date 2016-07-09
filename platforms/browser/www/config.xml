@@ -8,10 +8,10 @@
     </feature>
     <name>easyScrambler</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        A cryptographical tool to scramble text messages.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="adnan.akgun@netclipper.co.uk" href="">
+        Adnan Akgun
     </author>
     <content src="index.html" />
     <icon src="icon.png" />
