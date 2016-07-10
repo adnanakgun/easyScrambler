@@ -6,7 +6,7 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>easyScrambler</name>
+    <name>Easy Scrambler</name>
     <description>
         A cryptographical tool to scramble text messages.
     </description>
@@ -25,6 +25,6 @@
     <allow-intent href="geo:*" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
-    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="SplashScreenDelay" value="3000" />
     <preference name="FadeSplashScreen" value="false" />
 </widget>

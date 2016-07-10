@@ -72,7 +72,7 @@
     <icon density="xxhdpi" src="www/res/icons/android/drawable-xxhdpi-icon.png" />
     <icon density="xxxhdpi" src="www/res/icons/android/drawable-xxxhdpi-icon.png" />
     <allow-intent href="market:*" />
-    <name>easyScrambler</name>
+    <name>Easy Scrambler</name>
     <description>
         A cryptographical tool to scramble text messages.
     </description>
@@ -84,7 +84,7 @@
     <preference name="android-minSdkVersion" value="14" />
     <icon src="icon.png" />
     <splash src="www/splash.png" />
-    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="SplashScreenDelay" value="3000" />
     <preference name="FadeSplashScreen" value="false" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
