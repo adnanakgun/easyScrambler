@@ -20,7 +20,7 @@
 				array: ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','ä','ö','ü','ß']
 			}, {
 				label: 'Spanish',
-				array: ['a','b','c','ch','d','e','f','g','h','i','j','k','l','ll','m','n','ñ','o','p','q','r','rr','s','t','u','v','w','x','y','z']
+				array: ['a','b','c','c','d','e','f','g','h','i','j','k','l','l','m','n','ñ','o','p','q','r','r','s','t','u','v','w','x','y','z']
 			}],
 			userSettings: {},
 			scrambleSettings: {},

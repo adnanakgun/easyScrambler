@@ -4,7 +4,6 @@
 
 		return {
             isSelectedSection: function(userAction, section){
-                console.log(userAction, section);
                 return userAction === section;
             }
 		}

@@ -1,4 +1,4 @@
-<section ng-show="model.selectedSection === 'settings'">
+<section ng-show="isSelected('settings')">
 	<label for="alpabetSelector">Select alphabet:</label>
 	<div class="align-box">
 		<select id="alpabetSelector" ng-options="a.label for a in model.alphabetData" ng-model="selectedAlphabet" ng-change="changeUserSettings()"></select>
